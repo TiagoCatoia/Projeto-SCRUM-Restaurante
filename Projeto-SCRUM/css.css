@@ -69,6 +69,7 @@ h1 {
   justify-content: space-around;
   position: sticky;
   text-decoration: none;
+  font-family: Arial, sans-serif;
 }
 
 .links a::after {
