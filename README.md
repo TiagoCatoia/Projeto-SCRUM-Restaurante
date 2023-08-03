@@ -14,7 +14,7 @@ A metodologia ágil SCRUM é uma abordagem de desenvolvimento de projetos que va
 
 ## Aplicação do SCRUM no Projeto
 
-Durante o desenvolvimento do **[Nome do Projeto]**, a equipe aplicou o SCRUM de forma eficiente e transparente. O processo incluiu:
+Durante o desenvolvimento do projeto a equipe aplicou o SCRUM de forma eficiente e transparente. O processo incluiu:
 
 - Planejamento do Projeto: As histórias de usuário foram previamente estabelecidas e priorizadas para compor o backlog do projeto.
 - Sprint Planning: A equipe definiu as tarefas para cada sprint (a sprint seria realizada no mesmo dia), dividindo as histórias entre os membros.
