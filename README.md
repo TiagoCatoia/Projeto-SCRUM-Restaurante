@@ -8,11 +8,11 @@ O projeto é um site desenvolvido utilizando a metodologia ágil SCRUM, com o ob
 
 No projeto apenas utilizamos de HTML e CSS
 
-### Introdução à Metodologia Ágil SCRUM
+## Introdução à Metodologia Ágil SCRUM
 
 A metodologia ágil SCRUM é uma abordagem de desenvolvimento de projetos que valoriza a entrega incremental e colaborativa, permitindo uma maior flexibilidade na adaptação de requisitos ao longo do desenvolvimento.
 
-### Aplicação do SCRUM no Projeto
+## Aplicação do SCRUM no Projeto
 
 Durante o desenvolvimento do **[Nome do Projeto]**, a equipe aplicou o SCRUM de forma eficiente e transparente. O processo incluiu:
 
@@ -22,7 +22,7 @@ Durante o desenvolvimento do **[Nome do Projeto]**, a equipe aplicou o SCRUM de 
 - Sprint Review: Ao final do dia de trabalho, realizamos uma versão adaptada da Sprint Review para avaliar e validar as entregas junto ao professor, que atuou como o único stakeholder neste projeto de pequeno porte. Dada a natureza do nosso projeto, foi possível conduzir esse processo de forma eficiente e colaborativa, mesmo em um único dia.
 - Sprint Retrospective: Se o projeto foi pequeno e realizado em um único dia, a realização de uma Sprint Retrospective pode ser simplificada, mas ainda é importante destacar o esforço da equipe para identificar oportunidades de melhoria. 
 
-### Ferramentas Utilizadas
+## Ferramentas Utilizadas
 
 Trello
 O Trello foi adotado como nossa ferramenta de gerenciamento de projetos. Utilizamos o Trello para organizar o backlog do produto, criar e gerenciar as listas de tarefas (to-do, doing, done), acompanhar o progresso das histórias de usuário e facilitar a comunicação e colaboração entre os membros da equipe.
