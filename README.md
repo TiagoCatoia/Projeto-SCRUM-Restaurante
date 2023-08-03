@@ -24,7 +24,6 @@ Durante o desenvolvimento do projeto a equipe aplicou o SCRUM de forma eficiente
 
 ## Ferramentas Utilizadas
 
-Trello
 O Trello foi adotado como nossa ferramenta de gerenciamento de projetos. Utilizamos o Trello para organizar o backlog do produto, criar e gerenciar as listas de tarefas (to-do, doing, done), acompanhar o progresso das histórias de usuário e facilitar a comunicação e colaboração entre os membros da equipe.
 
 Essa ferramenta se mostrou fundamental para o sucesso do projeto, permitindo uma gestão eficiente das atividades e garantindo a visibilidade de todo o processo de desenvolvimento.
